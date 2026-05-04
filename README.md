@@ -5,7 +5,7 @@
 
 *Building intelligent systems — from diffusion models to autonomous drones.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MaGmApErO)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ohmagmaagain@gmail.com)
 [![Location](https://img.shields.io/badge/Greater%20Noida%2C%20India-📍-lightgrey)](https://maps.google.com)
@@ -128,9 +128,8 @@ Investigating compact, **mission-configurable drone architectures** where hardwa
 | Platform | Link |
 |---|---|
 | 📧 Email | [ohmagmaagain@gmail.com](mailto:ohmagmaagain@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/your-link](https://linkedin.com) |
+| 💼 LinkedIn | [linkedin.com/in/your-link]() |
 | 🐙 GitHub | [github.com/MaGmApErO](https://github.com/MaGmApErO) |
-| 📞 Phone | +91 7982954949 |
 
 ---
 
